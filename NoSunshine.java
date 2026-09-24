@@ -1,4 +1,4 @@
-public class sC{
+public class NoSunshine{
    public static void main(String[] ags){
       v(1);
       System.out.println("It's not warm when she's away");
